@@ -1,11 +1,12 @@
 <script setup>
+import QuestionBlock from './components/trivia/QuestionBlock.vue';
 
 </script>
 
 <template>
- <h1>Trivia</h1>
+  <QuestionBlock />
 </template>
 
 <style scoped>
-
+  
 </style>
